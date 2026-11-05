@@ -22,7 +22,9 @@ Key capabilities include:
 This project demonstrates practical applications of embedded Linux, computer vision, microcontroller programming, robotics, and renewable energy technologies.
 
 ---
-
+### Programming Languages
+- Python (Main Security System)
+- C/C++ (Arduino Solar Tracking)
 ## ✨ Key Features
 
 ### 👁️ Computer Vision & Intelligent Surveillance
